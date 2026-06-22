@@ -176,17 +176,8 @@ A carbon footprint tracking project that helps users understand, track, and redu
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samyak9109&theme=react-dark&hide_border=true&area=true" alt="Samyak's GitHub Activity Graph" />
-</p>
+<img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/1a7e94e1-8b55-4ce8-b99e-df2386eb2888" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Samyak9109&theme=dark&hide_border=false" alt="Samyak's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak9109&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Samyak's Top Languages" />
-</p>
 
 ---
 
