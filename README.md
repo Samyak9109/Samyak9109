@@ -144,7 +144,7 @@ A full-stack food ordering platform with authentication, partner features, AI ch
 **Tech Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, LangChain
 
 🔗 **Live Demo:** https://munchyfoodpickup.netlify.app/
-💻 **GitHub:** Add repo link here
+💻 **GitHub:** [Add repo link here](https://github.com/Samyak9109/Munchy-Food-App)
 
 ---
 
@@ -176,14 +176,27 @@ A carbon footprint tracking project that helps users understand, track, and redu
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Samyak9109\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samyak9109&theme=react-dark&hide_border=true&area=true" alt="Samyak's GitHub Activity Graph" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=Samyak9109\&theme=dark\&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Samyak9109&theme=dark&hide_border=false" alt="Samyak's GitHub Streak" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak9109\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak9109&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Samyak's Top Languages" />
+</p>
 
 ---
 
+# ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
 
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
