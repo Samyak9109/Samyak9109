@@ -26,6 +26,8 @@ I like learning by building projects, solving problems, improving code quality, 
 
 I’m open to opportunities in **SDE, full-stack development, AI/GenAI projects, internships, freelance work, and open-source collaboration**.
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Samyak9109/badge.svg)](https://hub.xerj.org/contributors/Samyak9109)
+
 ---
 
 # 🚀 What I'm Up To
