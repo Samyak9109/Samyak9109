@@ -178,7 +178,8 @@ A carbon footprint tracking project that helps users understand, track, and redu
 
 # 📊 GitHub Stats
 
-<img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/1a7e94e1-8b55-4ce8-b99e-df2386eb2888" />
+<img width="743" height="531" alt="image" src="https://github.com/user-attachments/assets/7fbe5f3c-9c5e-47b9-b849-1533718e6184" />
+
 
 
 ---
