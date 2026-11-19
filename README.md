@@ -51,7 +51,7 @@ I’m open to opportunities in **SDE, full-stack development, AI/GenAI projects,
 **Email:** [samyak.0425@gmail.com](mailto:samyak.9109@gmail.com)
 
 📄 Know about my experiences
-**Resume:** [View Resume](https://drive.google.com/file/d/1CkP1A3oCVhYle-vLbLh6PBg3bX-E5uHf/view?usp=drive_link)
+**Resume:** [View Resume]([https://drive.google.com/file/d/1CkP1A3oCVhYle-vLbLh6PBg3bX-E5uHf/view?usp=drive_link](https://docs.google.com/document/d/1hoiTq0gDuhwRusRyopC4vOJLzXhVY1quMz9iasyEP44/edit?usp=drive_link))
 
 ⚡ Fun fact
 **I enjoy turning random ideas into working projects, even if I start with “just a small feature” and end up building a full app.**
