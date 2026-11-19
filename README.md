@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | Java DSA | React · Node.js · Python | GenAI & AI Projects</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samyak-jain-122aaa273/">
+  <a href="https://www.linkedin.com/in/samyak9109/">
     <img src="https://img.shields.io/badge/LinkedIn-Samyak%20Jain-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Samyak9109">
@@ -48,8 +48,7 @@ I’m open to opportunities in **SDE, full-stack development, AI/GenAI projects,
 **React, Node.js, Express.js, MongoDB, Java DSA, Python, Socket.IO, GenAI, LangChain, Gemini API, and building full-stack projects**
 
 📫 How to reach me
-**Email:** [samyak.9109@gmail.com](mailto:samyak.9109@gmail.com)
-**Alternate Email:** [samyak.0325@gmail.com](mailto:samyak.ai91@gmail.com)
+**Email:** [samyak.0425@gmail.com](mailto:samyak.9109@gmail.com)
 
 📄 Know about my experiences
 **Resume:** [View Resume](https://drive.google.com/file/d/1CkP1A3oCVhYle-vLbLh6PBg3bX-E5uHf/view?usp=drive_link)
@@ -62,7 +61,7 @@ I’m open to opportunities in **SDE, full-stack development, AI/GenAI projects,
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/samyak-jain-122aaa273/" target="_blank">
+  <a href="https://www.linkedin.com/in/samyak9109/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://leetcode.com/u/user7969yQ/" target="_blank">
