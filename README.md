@@ -49,7 +49,7 @@ I’m open to opportunities in **SDE, full-stack development, AI/GenAI projects,
 
 📫 How to reach me
 **Email:** [samyak.9109@gmail.com](mailto:samyak.9109@gmail.com)
-**Alternate Email:** [samyak.0325@gmail.com](mailto:samyak.0325@gmail.com)
+**Alternate Email:** [samyak.0325@gmail.com](mailto:samyak.ai91@gmail.com)
 
 📄 Know about my experiences
 **Resume:** [View Resume](https://drive.google.com/file/d/1CkP1A3oCVhYle-vLbLh6PBg3bX-E5uHf/view?usp=drive_link)
