@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/samyak9109/"><img src="https://img.shields.io/badge/LinkedIn-Samyak%20Jain-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Samyak9109"><img src="https://img.shields.io/badge/GitHub-Samyak9109-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:samyak.9109@gmail.com"><img src="https://img.shields.io/badge/Email-samyak.9109%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:samyak.0425@gmail.com"><img src="https://img.shields.io/badge/Email-samyak.0425%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://docs.google.com/document/d/1hoiTq0gDuhwRusRyopC4vOJLzXhVY1quMz9iasyEP44/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
 </p>
 
