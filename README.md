@@ -115,11 +115,6 @@ Career assistant with persistent memory over your experience and job targets.
 **Stack:** FastAPI · MongoDB · LangChain · React/Vite
 💻 [GitHub](https://github.com/Samyak9109/job-copilot)
 
-## 🎨 Scribbl: Real-Time Collaborative Whiteboard
-Live multi-user drawing rooms with shapes and text.
-**Stack:** React · Redux Toolkit · Socket.IO · Express · Canvas API
-🔗 [Live](https://skribbl-draw.netlify.app/) · 💻 [GitHub](https://github.com/Samyak9109/Scribbl)
-
 ➡️ More on [my repositories](https://github.com/Samyak9109?tab=repositories): LexPilot, ElectraGuide, EcoTrackAI, FaceRoll, score-agent, and more.
 
 ---
